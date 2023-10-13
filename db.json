@@ -1,0 +1,213 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "name": "Pastel de Chocolate",
+      "description": "Delicioso pastel con crema y chispas de chocolate.",
+      "price": 14.99,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/pastelchocolate-entero.png?alt=media&token=082a9a0f-2f28-4ad8-bf17-95711c66ef69",
+      "category": "Pasteles"
+    },
+    {
+      "id": 2,
+      "name": "Galleta de Avena",
+      "description": "Crujiente galleta de avena.",
+      "price": 0.5,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/galletas-de-avena.png?alt=media&token=a2400f10-4d78-4e16-955c-3ea73c8bfc66",
+      "category": "Repostería"
+    },
+    {
+      "id": 3,
+      "name": "Flan de Vainilla",
+      "description": "Cremoso flan con toque de vainilla y caramelo.",
+      "price": 3.5,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/flan-de-vainilla.png?alt=media&token=2da0702b-f389-446c-985f-c63551fd572d",
+      "category": "Postres"
+    },
+    {
+      "id": 4,
+      "name": "Cheesecake de Fresa",
+      "description": "Cheesecake con cobertura de fresa.",
+      "price": 12.0,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/cheesecake-de-fresa-completo.png?alt=media&token=787c4c65-0f2b-49e7-9c9f-66d3a6cae939",
+      "category": "Pasteles"
+    },
+    {
+      "id": 5,
+      "name": "Brownies con nuez",
+      "description": "Brownie con trozos de nuez.",
+      "price": 2.0,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/porcin-de-brownie-con-trozos-de-nuez.png?alt=media&token=4456387f-3df3-41dd-98e3-37a7e98f22bb",
+      "category": "Repostería"
+    },
+    {
+      "id": 6,
+      "name": "Pastel de Tres Leches",
+      "description": "Esponjoso pastel bañado en una mezcla de tres tipos de leche.",
+      "price": 16.0,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/tresleches.jpg?alt=media&token=207542f0-ea8d-4163-9b67-b018af63a201",
+      "category": "Pasteles"
+    },
+    {
+      "id": 7,
+      "name": "Donas Glaseadas",
+      "description": "Donas suaves con glaseado dulce, ideales para el desayuno.",
+      "price": 1.2,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/donas-glaseadas.png?alt=media&token=3f054972-f637-484a-b700-422348884c1f",
+      "category": "Repostería"
+    },
+    {
+      "id": 8,
+      "name": "Mousse de Chocolate",
+      "description": "Mousse cremoso con sabor intenso a chocolate.",
+      "price": 4.5,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/mousse-de-chocolate.png?alt=media&token=06dc987b-3c79-48f1-8ea4-d106507f8df2",
+      "category": "Postres"
+    },
+    {
+      "id": 9,
+      "name": "Pastel de Zanahoria",
+      "description": "Pastel jugoso con trozos de zanahoria y cobertura de queso crema.",
+      "price": 15.0,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/zanahoria.jpg?alt=media&token=3908efb9-ca3b-452c-aa09-155f1bb49117",
+      "category": "Pasteles"
+    },
+    {
+      "id": 10,
+      "name": "Macarons",
+      "description": "Dulces franceses crujientes por fuera y suaves por dentro.",
+      "price": 1.5,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/macarons.png?alt=media&token=9b67d170-00c0-40fb-9d9f-74f0c1e766ab",
+      "category": "Repostería"
+    },
+    {
+      "id": 11,
+      "name": "Pastel de Brownie",
+      "description": "Brownie del tamaño de un pastel con chispas de dulce para compartir con toda la familia.",
+      "price": 15.0,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/brownie-familiar-completo.png?alt=media&token=2cf79494-fdc8-4621-a2b8-131ab3171425",
+      "category": "Pasteles"
+    },
+    {
+      "id": 12,
+      "name": "Pie de Frutas",
+      "description": "Pie ligero repleto de frutas frescas y trozos jugosos.",
+      "price": 18.0,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/pastel-de-frutas-completo.png?alt=media&token=3b3ed6c1-99b7-48dd-90a6-68061405466c",
+      "category": "Postres"
+    },
+    {
+      "id": 13,
+      "name": "Cheesecake de Frambuesa",
+      "description": "Cheesecake cremoso con un toque de frambuesa.",
+      "price": 20.0,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/cheesecake-de-frambuesa-entero.png?alt=media&token=e68b99b9-5807-49d7-af55-44f2b32750ba",
+      "category": "Postres"
+    },
+    {
+      "id": 14,
+      "name": "Muffins de Arándano",
+      "description": "Muffins esponjosos llenos de arándanos frescos.",
+      "price": 2.5,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/blueberry.jpg?alt=media&token=ce09c549-21d9-4a87-85dd-6fbb0ddc0123",
+      "category": "Repostería"
+    },
+    {
+      "id": 15,
+      "name": "Pastel de Vainilla",
+      "description": "Pastel suave y esponjoso con sabor a vainilla y cobertura cremosa.",
+      "price": 15.0,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/vanillla-cake.png?alt=media&token=decbd1b5-bfb0-4a61-bea5-18ce9cd5b4a3",
+      "category": "Pasteles"
+    },
+    {
+      "id": 16,
+      "name": "Pudín de Pan",
+      "description": "Dulce y húmedo pudín hecho con trozos de pan viejo.",
+      "price": 5.0,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/bread-pudding.png?alt=media&token=681c6dfd-2d8b-4bc5-94c1-a70038765e61",
+      "category": "Postres"
+    },
+    {
+      "id": 17,
+      "name": "Tarta de Manzana",
+      "description": "Tarta crujiente rellena de manzanas caramelizadas.",
+      "price": 10.0,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/apple-pie.png?alt=media&token=1889c99f-e6b1-4fd9-b27a-25798d0118d8",
+      "category": "Pasteles"
+    },
+    {
+      "id": 18,
+      "name": "Galletas de avena con pasas",
+      "description": "Galletas crujientes con avena y pasas.",
+      "price": 0.8,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/galletas-de-avena-y-pasas.png?alt=media&token=b4149487-c6e5-44bb-910e-c545c03d9764",
+      "category": "Repostería"
+    },
+    {
+      "id": 19,
+      "name": "Gelatina de Frutas",
+      "description": "Gelatina clara repleta de trozos de frutas frescas.",
+      "price": 4.0,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/flavored-jelly.png?alt=media&token=0cd9991b-5277-4d48-a278-b8f75529fe88",
+      "category": "Postres"
+    },
+    {
+      "id": 20,
+      "name": "Pastel de Chocolate",
+      "description": "Pastel rico y húmedo con capas de chocolate y cobertura de ganache.",
+      "price": 18.0,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/slice-of-chocolate-cake.png?alt=media&token=34619d75-1d0b-4080-8463-9dbfb8918b81",
+      "category": "Pasteles"
+    },
+    {
+      "id": 21,
+      "name": "Galletas de Chispas de Chocolate",
+      "description": "Galletas crujientes con chispas de chocolate semiamargo.",
+      "price": 0.9,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/galleta-chocolate.jpg?alt=media&token=15e326e6-8032-4f03-a30c-a08225759223",
+      "category": "Repostería"
+    },
+    {
+      "id": 22,
+      "name": "Flan Napolitano",
+      "description": "Flan suave y cremoso con una capa de caramelo en la parte superior.",
+      "price": 6.0,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/flan-napolitano.png?alt=media&token=cc1be24b-2ef4-4627-b32f-ed5346e50b76",
+      "category": "Postres"
+    },
+    {
+      "id": 23,
+      "name": "Tartaleta de Fresa",
+      "description": "Tartaleta crujiente con relleno de fresas frescas y crema.",
+      "price": 11.0,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/tartaleta-fresa.jpg?alt=media&token=1561e0c9-b2f9-4c1c-84e2-123a80190086",
+      "category": "Pasteles"
+    },
+    {
+      "id": 24,
+      "name": "Brazo Gitano",
+      "description": "Pastel enrollado con relleno de crema y mermelada de guayaba.",
+      "price": 12.5,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/brazo-gitano.jpg?alt=media&token=b9ab69f6-3483-4fc6-9e42-04bf354ef620",
+      "category": "Repostería"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/img001.jpg?alt=media&token=96bd2758-bcaf-441f-92fa-8f6fb548f1ea",
+      "name": "Pasteles"
+    },
+    {
+      "id": 2,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/img002.jpg?alt=media&token=a9dcc397-82f1-494a-929f-5090bfd65752",
+      "name": "Repostería"
+    },
+    {
+      "id": 3,
+      "image": "https://firebasestorage.googleapis.com/v0/b/cakeshop-proyect.appspot.com/o/img003.jpg?alt=media&token=76182e5d-0efc-497d-95ee-18c668684662",
+      "name": "Postres"
+    }
+  ]
+}
